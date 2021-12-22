@@ -1,0 +1,120 @@
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2_MarkupCompile.cache
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2_MarkupCompile.lref
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.exe
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.deps.json
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.runtimeconfig.json
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.runtimeconfig.dev.json
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.dll
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.pdb
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\ClassLibrary12.dll
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\Library12.dll
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\ClassLibrary12.pdb
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\Library12.pdb
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.g.resources
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.AssemblyInfoInputs.cache
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.AssemblyInfo.cs
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.csproj.CopyComplete
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.dll
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.pdb
+C:\Users\исп-34\source\repos\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.genruntimeconfig.cache
+D:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.exe
+D:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.deps.json
+D:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.runtimeconfig.json
+D:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.runtimeconfig.dev.json
+D:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.dll
+D:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.pdb
+D:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\ClassLibrary12.dll
+D:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\Library12.dll
+D:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\ClassLibrary12.pdb
+D:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\Library12.pdb
+D:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.csprojAssemblyReference.cache
+D:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\App.g.cs
+D:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2_MarkupCompile.cache
+D:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2_MarkupCompile.lref
+D:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.g.resources
+D:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.AssemblyInfoInputs.cache
+D:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.AssemblyInfo.cs
+D:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.csproj.CoreCompileInputs.cache
+D:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.csproj.CopyComplete
+D:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.dll
+D:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.pdb
+D:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.genruntimeconfig.cache
+E:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.exe
+E:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.deps.json
+E:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.runtimeconfig.json
+E:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.runtimeconfig.dev.json
+E:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.dll
+E:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.pdb
+E:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\ClassLibrary12.dll
+E:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\Library12.dll
+E:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\ClassLibrary12.pdb
+E:\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\Library12.pdb
+E:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.csproj.AssemblyReference.cache
+E:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\App.g.cs
+E:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2_MarkupCompile.cache
+E:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2_MarkupCompile.lref
+E:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.g.resources
+E:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.AssemblyInfoInputs.cache
+E:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.AssemblyInfo.cs
+E:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.csproj.CoreCompileInputs.cache
+E:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.csproj.CopyComplete
+E:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.dll
+E:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.pdb
+E:\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.genruntimeconfig.cache
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.exe
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.deps.json
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.runtimeconfig.json
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.runtimeconfig.dev.json
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.dll
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.pdb
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\ClassLibrary12.dll
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\Library12.dll
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\ClassLibrary12.pdb
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\Library12.pdb
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2_MarkupCompile.cache
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2_MarkupCompile.lref
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.g.resources
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.AssemblyInfoInputs.cache
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.AssemblyInfo.cs
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.csproj.CopyComplete
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.dll
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.pdb
+C:\Users\ИСП-34\Desktop\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.genruntimeconfig.cache
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.exe
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.deps.json
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.runtimeconfig.json
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.runtimeconfig.dev.json
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.dll
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\WpfApp2.pdb
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\ClassLibrary12.dll
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\Library12.dll
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\ClassLibrary12.pdb
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\bin\Debug\netcoreapp3.1\Library12.pdb
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.csprojAssemblyReference.cache
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\App.g.cs
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2_MarkupCompile.cache
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2_MarkupCompile.lref
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\MainWindow.baml
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.g.resources
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.AssemblyInfoInputs.cache
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.AssemblyInfo.cs
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.csproj.CoreCompileInputs.cache
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.csproj.CopyComplete
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.dll
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.pdb
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\WpfApp2\obj\Debug\netcoreapp3.1\WpfApp2.genruntimeconfig.cache

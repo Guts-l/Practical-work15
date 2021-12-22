@@ -1,0 +1,36 @@
+C:\Users\исп-34\source\repos\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.csproj.AssemblyReference.cache
+C:\Users\исп-34\source\repos\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.AssemblyInfoInputs.cache
+C:\Users\исп-34\source\repos\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.AssemblyInfo.cs
+C:\Users\исп-34\source\repos\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.csproj.CoreCompileInputs.cache
+C:\Users\исп-34\source\repos\WpfApp2\Library12\bin\Debug\netcoreapp3.1\Library12.deps.json
+C:\Users\исп-34\source\repos\WpfApp2\Library12\bin\Debug\netcoreapp3.1\Library12.dll
+C:\Users\исп-34\source\repos\WpfApp2\Library12\bin\Debug\netcoreapp3.1\Library12.pdb
+C:\Users\исп-34\source\repos\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.dll
+C:\Users\исп-34\source\repos\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.pdb
+D:\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.csprojAssemblyReference.cache
+D:\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.AssemblyInfoInputs.cache
+D:\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.AssemblyInfo.cs
+D:\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.csproj.CoreCompileInputs.cache
+D:\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.dll
+D:\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.pdb
+E:\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.csproj.AssemblyReference.cache
+E:\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.AssemblyInfoInputs.cache
+E:\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.AssemblyInfo.cs
+E:\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.csproj.CoreCompileInputs.cache
+E:\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.dll
+E:\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.pdb
+C:\Users\ИСП-34\Desktop\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.csproj.AssemblyReference.cache
+C:\Users\ИСП-34\Desktop\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.AssemblyInfoInputs.cache
+C:\Users\ИСП-34\Desktop\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.AssemblyInfo.cs
+C:\Users\ИСП-34\Desktop\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-34\Desktop\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.dll
+C:\Users\ИСП-34\Desktop\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.pdb
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\Library12\bin\Debug\netcoreapp3.1\Library12.deps.json
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\Library12\bin\Debug\netcoreapp3.1\Library12.dll
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\Library12\bin\Debug\netcoreapp3.1\Library12.pdb
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.csprojAssemblyReference.cache
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.AssemblyInfoInputs.cache
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.AssemblyInfo.cs
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.csproj.CoreCompileInputs.cache
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.dll
+G:\III курс\Чужие\ХОХОЛ\WpfApp2\Library12\obj\Debug\netcoreapp3.1\Library12.pdb

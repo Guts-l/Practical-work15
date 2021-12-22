@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WpfApp2/1.0.0": {
+        "dependencies": {
+          "ClassLibrary12": "1.0.0",
+          "Library12": "1.0.0"
+        },
+        "runtime": {
+          "WpfApp2.dll": {}
+        }
+      },
+      "ClassLibrary12/1.0.0": {
+        "runtime": {
+          "ClassLibrary12.dll": {}
+        }
+      },
+      "Library12/1.0.0": {
+        "runtime": {
+          "Library12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
